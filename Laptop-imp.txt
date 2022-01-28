@@ -1,0 +1,88 @@
+Laptop imps
+
+Disk speed up
+Download and install primo cache and then restart you pc and then go to file explore and then right click on this pc and then go to manage and then select manage level to cache and then open it and then select c: drive and then click formate and then click new cache task and then check c: and the then click next and then expand preset configuration and then click configure accelerate read and write and then click start
+
+Activate windows:- 
+Go to https://get.msguides.com/windows-10-8.1-8-7.txt and copy given command and pest it in notpad and go to the file option and select save as and go to the desktop and select all file option and name it whatever you want and add .cmd at the last and then save it and run it as administration 
+
+Intel gpu booast:-
+Right click and open graphic and go to the display sele screen regulations to maximum and set scaling to the mantain display scaling and the apply it and get out of it and go to the 3d and enable app optimal mode and set general settings to performance and click apply and get out of it abd then come to the profile and check all and get out of it and come to the power option and in plugin change to the maximum performance and the click on battry change graphic power plant to the maximum performance and disable display power saving technology and the apply it and get out of it and go to video and set keep standard color settings to application settings and set input range application settings and then click on advance and the disable turdal color director and the apply and then go to image inacement and keep the sharpness as application settings and enable skin tone Inasment and the go to the image scalling and disable it and apply and get out from it 
+
+More v ram for laptop:-
+Right click in windows power botton and go to the system and got to the advance option and click high performance option and apply it and then click advance options, click advance, click on ram settings, click set manually and chooses the 25% of you that disk space and set it as initial and maximum size and copy the settings to all disk d: e: f:
+
+Power option:- 
+Search power plant on windows search bar and the click new power plant set name power option after that set every thing to never and click on advance power option expand processes option expand every thing inside that and change the to 100% and save it
+
+Processes speed:-
+Search msconfig and open it and go to the boot option and go to the advance option and click the number of processors and select the largest number of it and then search performance monitor and expand the data collector settings and then go to the user define and right click and new data collector set and set name CPU and click manually advance and then click data log and select performance counter and then click on add and select processors and select the highest number of them and then add and search for the process and expand it and search for the thread count and select it and then select total and add it and the save it and next and next and select save and close and finish it and right click that CPU option and start it and restart your laptop
+
+More booast :-
+Win+r services.msc got to Diagnostic services and double click it host and click stop and disable it and save it and then search for sys main or superfetch and stop and diasble and save and the search for windows Update and stop and disabled it and save it and the got to home screen and Win+r and type msconfig and then click one services and clicke don't show microsoft services and then disable all and save it 
+
+Gaming mod :-
+Got to the task manager and go the startup and disable all, search game mod in search bar and enable it 
+
+Booast by Regeit:-
+Win+r regedit expand 
+(i) HKEY_CURRENT_USER -> system -> gameconfigstore and select it and double click game DVR and set value to 0 and the double click GameDVD_EFSBehaviorMode set value to 2
+A
+
+(ii) HKEY_LOCAL_MACHINE -> software -> Microsoft -> policymanager -> default -> (select) applicationmanagment -> (double click) allowgameDVN and set it to 0 
+
+(iii) HKEY_LOCAL_MACHINE -> software ->  Microsoft -> windows NT -> current version -> Multimidoa -> systemprofile -> tsks -> games -> (double click) affendy -> vlu = 0, clock rate +> vlu = 2210, cpu priority -> vlu = 1, prioridy -> vlu= 7, scaduling catagory :- vlu = high, sfio priority :- vlu = high
+
+(iv) HKEY_LOCAL_MACHINE -> software -> right click and new
+Name:- GMM 
+GMM -> (right click) QWORD
+Name:- DedicatedSegmentSize (exact) 
+DedicatedSegmentSize :- vlu = 512
+
+Apps and booast:-
+
+(i) memory reduct :- download and install memory reduct and the open it and click on file and go to the settings and in general check load system start up and the click on close and click on clear memory and then 
+
+(ii) Quick cpu:- Download and install quick cpu app and then select power option at power plant option and then select on battry at power source option and the switch all to 100% and then select plugged in at power source option and the switch all to 100% and apply and close
+
+(i) smart game booaster :- Download and install smart game booaster and go to drives click update button and click utilize and click system twicker and then click optimize and click ok and then click disk defreg and click ... And click deep defreg and start click booast and done
+
+(ii) drive booaster :- download and install drive booaster and then click on scan and click on update bitton
+
+(iii) download  install win rar
+
+(iv) download and install tlauncher and then open it and then download this https://store1.gofile.io/download/584b880f-8876-4acf-8bf7-3a4260bb4129/files%20json.rar and then extract that file and then click win + r and then type %appdata% on run and then hit enter button and then open .minecraft folder and then grab that extracted file in .minecraft folder and then edit that folder and then you find a name section and then change the remove that ever is written down in that name section and the set the name what ever you want and then change the user name section by you email and then go to mods, click create and create 1.16.5 mod pack and enter and change the setting to high performance and then create an test world
+
+() download and install 7zip from here https://www.7-zip.org/a/7z2107-x64.exe
+
+(v) download and install discord
+
+(vi) Setting up jdk 17:- Download jdk 17 from https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.1%2B12/OpenJDK17U-jdk_x64_windows_hotspot_17.0.1_12.msi and then open that msi installer and then when then click next and then tick java home variable and then click next and then click install and then 
+
+(vii) download and install vscode
+Setting up vscode:- 
+Download java extension pack and the install code runner and then search for gradle in extension search bar and then install gradle extension
+
+(viii) download and install gradle from here https://services.gradle.org/distributions/gradle-7.3.3-bin.zip and then set gradle home at the system variable at environment variable 
+
+(ix) download and install team speak
+
+(x) download and install visual bukkit
+
+(xi) download and install mcreator (don't open it now) 
+
+Setting up mod for vscode:-
+Download minecraft 1.16.5 mdk from here https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.23/forge-1.16.5-36.2.23-mdk.zip and then take that zip file to a folder and then unzip it and the delete that zip file and then remove redme.md, credits, changelog and license and then open that folder in vscode and then open terminal in vscode and then write in terminal this "./gradlew eclipse --debug" and then also run "./gradlew genVSCodeRuns --debug" And then click that play button in vscode and then run it in minecraft and exit minecraft and then open that mod file in mcreator and the you can use thet folder in mcreator 
+
+defragmentation :-
+search defragmentation and then open it and select your disk and click optimize
+
+Tips and tricks :-
+search disk clean up in windiws search bar and open it snd select your didk and check which folder you want to clea up and clean it up 
+
+Run:- (delete everything in that folder) (exact) 
+%temp%
+prefetch
+temp
+recent
+tree
